@@ -10,11 +10,14 @@ data
 **/*.pkl
 **/*.pth
 **/*.pth.tar
+**/checkpoints/
 
 # Data
 **/*.npy
 **/*.npz
+**/results/
 
 # Slurm jobs
 **/*.out
 **/bash_*
+**/bash*
