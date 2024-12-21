@@ -5,7 +5,9 @@
 [![ArXiv](https://img.shields.io/badge/ArXiv-ImageFlowNet-firebrick)](https://arxiv.org/abs/2406.14794)
 
 
-This is the authors' implementation of [**ImageFlowNet**](https://arxiv.org/pdf/2406.14794). The official codebase is maintained in the [Lab GitHub repo](https://github.com/KrishnaswamyLab/ImageFlowNet).
+This is the authors' implementation of [**ImageFlowNet**](https://arxiv.org/pdf/2406.14794).
+
+The official codebase is maintained in the [Lab GitHub repo](https://github.com/KrishnaswamyLab/ImageFlowNet).
 
 
 ## A Glimpse into the Methods
