@@ -1,8 +1,24 @@
-# ImageFlowNet
-### Krishnaswamy Lab, Yale University
+<h1 align="center">
+[ICASSP 2025] ImageFlowNet
+</h1>
+
+<p align="center">
+<strong>Forecasting Multiscale Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images</strong>
+</p>
+
+<div align="center">
+
 [![Twitter](https://img.shields.io/twitter/follow/KrishnaswamyLab.svg?style=social&label=Follow)](https://twitter.com/KrishnaswamyLab)
 [![Github Stars](https://img.shields.io/github/stars/ChenLiu-1996/ImageFlowNet.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/ImageFlowNet/)
 [![ArXiv](https://img.shields.io/badge/ArXiv-ImageFlowNet-firebrick)](https://arxiv.org/abs/2406.14794)
+
+</div>
+
+<p align="center">
+Krishnaswamy Lab, Yale University
+</p>
+
+
 
 
 This is the authors' implementation of [**ImageFlowNet**](https://arxiv.org/pdf/2406.14794).
