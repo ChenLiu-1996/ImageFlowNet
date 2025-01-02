@@ -16,8 +16,7 @@
 
 ### Krishnaswamy Lab, Yale University
 
-
-This is the authors' implementation of [**ImageFlowNet**](https://arxiv.org/pdf/2406.14794).
+This is the authors' implementation of [**ImageFlowNet**](https://arxiv.org/pdf/2406.14794), ICASSP 2025.
 
 The official codebase is maintained in the [Lab GitHub repo](https://github.com/KrishnaswamyLab/ImageFlowNet).
 
