@@ -14,11 +14,7 @@
 
 </div>
 
-<p align="center">
-Krishnaswamy Lab, Yale University
-</p>
-
-
+### Krishnaswamy Lab, Yale University
 
 
 This is the authors' implementation of [**ImageFlowNet**](https://arxiv.org/pdf/2406.14794).
