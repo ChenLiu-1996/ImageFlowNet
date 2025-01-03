@@ -3,7 +3,9 @@
 </h1>
 
 <p align="center">
-<strong>Forecasting Multiscale Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images</strong>
+<strong>Forecasting Multiscale Trajectories of Disease Progression</strong>
+<br>
+<strong>with Irregularly-Sampled Longitudinal Medical Images</strong>
 </p>
 
 <div align="center">
