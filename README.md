@@ -1,5 +1,5 @@
 <h1 align="center">
-[ICASSP 2025] ImageFlowNet
+[ICASSP 2025 Oral] ImageFlowNet
 </h1>
 
 <p align="center">
